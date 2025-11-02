@@ -2,10 +2,11 @@
 
 I am a Computer Engineering undergraduate at the Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna.
 
+A concise, modern README with my key projects, a sleek languages breakdown, and a contribution graph. Simple, clean, and ready to paste into any repository.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesit-Rathnayake&layout=compact&theme=onedark&count_private=true)](https://github.com/Mesit-Rathnayake)
+[![Followers](https://img.shields.io/github/followers/Mesit-Rathnayake?style=for-the-badge)](https://github.com/Mesit-Rathnayake)
 
 ---
 
@@ -17,26 +18,88 @@ I am a Computer Engineering undergraduate at the Department of Electrical and In
 
 ---
 
-## Languages & Tools (with icons and percentages)
+## Languages & Tools — sleek breakdown
 
-The list below shows a visual-style breakdown of top languages (icons + percentages). Replace icons if you prefer other sources — the links below use popular icon assets.
+A compact, modern visual showing top languages with icons, percentage and a small progress bar. Percentages use the values from your reference image.
 
-| Language | Icon | Percentage |
-|---|---:|---:|
-| JavaScript | <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"> | 64.23% |
-| C# | <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20"> | 9.84% |
-| HTML | <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"> | 7.94% |
-| Jupyter Notebook | <img alt="Jupyter" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" width="20" height="20"> | 7.25% |
-| CSS | <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"> | 6.91% |
-| Dart | <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="20" height="20"> | 3.84% |
+<div align="left">
 
-Notes:
-- Percentages above follow the values shown in your reference image. If you want these computed from your repos instead of hard-coded, I can switch the "Top Langs" widget to a static QuickChart pie/donut generated from the live percentages (or you can provide updated percentages).
-- If any icon above does not render for you, you can host a small PNG/SVG in one of your repos (for example /assets/lang/javascript.svg) and point the image src to that URL.
+<!-- Language row: Icon (left), name + percentage (center), bar (right) -->
+<p style="margin:6px 0;">
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
+  <strong style="vertical-align:middle">JavaScript</strong>
+  <span style="color:#6b7280;margin-left:8px">64.23%</span>
+  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
+    <code style="background:#e6f0ff;border-radius:4px;padding:2px 6px;">
+      <span style="color:#007acc">████████████████████████████</span>
+    </code>
+  </span>
+</p>
+
+<p style="margin:6px 0;">
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
+  <strong style="vertical-align:middle">C#</strong>
+  <span style="color:#6b7280;margin-left:8px">9.84%</span>
+  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
+    <code style="background:#f3f4f6;border-radius:4px;padding:2px 6px;">
+      <span style="color:#2d8cbe">███</span>
+    </code>
+  </span>
+</p>
+
+<p style="margin:6px 0;">
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
+  <strong style="vertical-align:middle">HTML</strong>
+  <span style="color:#6b7280;margin-left:8px">7.94%</span>
+  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
+    <code style="background:#fff7ed;border-radius:4px;padding:2px 6px;">
+      <span style="color:#e34f26">██</span>
+    </code>
+  </span>
+</p>
+
+<p style="margin:6px 0;">
+  <img alt="Jupyter" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
+  <strong style="vertical-align:middle">Jupyter Notebook</strong>
+  <span style="color:#6b7280;margin-left:8px">7.25%</span>
+  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
+    <code style="background:#fff8f0;border-radius:4px;padding:2px 6px;">
+      <span style="color:#f0a202">██</span>
+    </code>
+  </span>
+</p>
+
+<p style="margin:6px 0;">
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
+  <strong style="vertical-align:middle">CSS</strong>
+  <span style="color:#6b7280;margin-left:8px">6.91%</span>
+  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
+    <code style="background:#eef2ff;border-radius:4px;padding:2px 6px;">
+      <span style="color:#1572b6">██</span>
+    </code>
+  </span>
+</p>
+
+<p style="margin:6px 0;">
+  <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
+  <strong style="vertical-align:middle">Dart</strong>
+  <span style="color:#6b7280;margin-left:8px">3.84%</span>
+  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
+    <code style="background:#f2fbff;border-radius:4px;padding:2px 6px;">
+      <span style="color:#00b4ab">█</span>
+    </code>
+  </span>
+</p>
+
+</div>
+
+*Notes:* the icons are hotlinked from devicon / public icon sources. If you prefer to host icons yourself, upload them to a repo and replace the image URLs.
 
 ---
 
 ## Contribution Graph
+A compact contribution overview of recent activity:
+
 ![Contribution graph](https://ghchart.rshah.org/Mesit-Rathnayake)
 
 ---
