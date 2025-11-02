@@ -1,6 +1,5 @@
 # Hi — I'm Mesith-Rathnayake 👋
 
-A concise, modern README with my key projects, a small language-summary card and contribution graph. Simple, clean, and ready to paste into any repository.
 
 ---
 
