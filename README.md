@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Mesith Rathnayake 👋</h1>
-<h3 align="center">Computer Engineering Undergraduate | Embedded Systems | AI & Web Developer</h3>
+<h3 align="center">Computer Engineering Undergraduate | Embedded Systems | AI & Full-Stack Developer (in progress 🚀)</h3>
 
 <p align="center">
   <a href="mailto:mesithrathnayake0930@gmail.com">
@@ -17,29 +17,29 @@
 ---
 
 ### 🧑‍💻 About Me  
-🎓 Computer Engineering Undergraduate at **University of Ruhuna**, Faculty of Engineering  
-💡 Passionate about **Embedded Systems**, **Artificial Intelligence**, and **Full-Stack Web Development**  
-🚀 Currently building **My Academia**, a student progress tracking web app  
-🌱 Learning **Spring Boot**, **React**, and advanced **system design**  
-🎨 In my free time, I enjoy **watercolor landscape art** and crafting digital experiences that blend creativity with logic.
+🎓 I’m a **Computer Engineering undergraduate** at the **University of Ruhuna**, Faculty of Engineering.  
+💡 Currently exploring **Machine Learning**, **Artificial Intelligence**, **Embedded Systems**, and **Web Application Development**.  
+🧭 I love building **academic-related web applications** that help students and institutions organize, visualize, and analyze data effectively.  
+🔧 Still learning — one project, one bug, one idea at a time!  
+🌍 Interested in combining **engineering principles** with **intelligent software systems** to create meaningful solutions.
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Tech Stack (Learning & Exploring)
 
 <div align="center">
 
-#### 💻 Programming Languages
+#### 💻 Languages
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,csharp,dart" />
 
 #### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=spring,react,flutter,nodejs,express,mysql,mongodb,git,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=spring,react,flutter,nodejs,express,mysql,mongodb,git,vscode,figma,arduino" />
 
 </div>
 
 ---
 
-### 📊 Language Usage
+### 📊 Language Usage (Based on Public Repos)
 
 <div align="center">
   <table cellpadding="6" cellspacing="0" style="border:none;">
@@ -80,27 +80,27 @@
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 Projects (Learning by Building)
 
-#### 🎓 [My Academia](https://github.com/Mesit-Rathnayake/my-academia)
-> A student progress tracking web app with real-time editing, modular dashboards, and semester reports.  
-**Stack:** React, Spring Boot, MySQL, Tailwind CSS
+#### 🧩 Academic Web Platforms  
+> Developing academic productivity tools focused on student progress tracking, performance visualization, and data-driven insights.  
+**Stack:** React, Spring Boot, MySQL, Tailwind CSS  
 
-#### 🧩 [Task Master](https://github.com/Mesit-Rathnayake/task-master)
-> Lightweight task manager for efficient daily planning with boards, priorities, and recurring tasks.  
-**Stack:** Node.js, Express, MongoDB
+#### 💰 [Budget Buddy](https://github.com/Mesit-Rathnayake/budget-buddy)  
+> A simple budgeting app with forecasting and transaction tracking.  
+**Stack:** Flutter, Firebase  
 
-#### 💰 [Budget Buddy](https://github.com/Mesit-Rathnayake/budget-buddy)
-> Smart personal budgeting app with forecasting and transaction categorization.  
-**Stack:** Flutter, Firebase
+#### 🧠 [Task Master](https://github.com/Mesit-Rathnayake/task-master)  
+> A basic task manager for organizing daily work and priorities.  
+**Stack:** Node.js, Express, MongoDB  
 
 ---
 
-### 🧩 How I Work  
-- Build in **small, testable increments**  
-- Keep **documentation clear and concise**  
-- Prefer **clean architecture** and **well-structured commits**  
-- Collaborate through **issues and meaningful PRs**
+### ⚙️ My Approach  
+- Learn through **projects and experimentation**  
+- Focus on **building from scratch** rather than copying  
+- Emphasize **clarity, structure, and teamwork**  
+- Believe that **engineering is 1% theory and 99% creative problem-solving**
 
 ---
 
@@ -118,4 +118,4 @@
 
 ---
 
-⭐️ *“Engineering is the art of turning imagination into innovation.”*  
+⭐️ *“Still learning — but every engineer starts with curiosity.”*
