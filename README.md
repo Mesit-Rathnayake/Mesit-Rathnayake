@@ -2,13 +2,6 @@
 
 I am a Computer Engineering undergraduate at the Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna.
 
-A concise, modern README with my key projects, a sleek languages breakdown, and a contribution graph. Simple, clean, and ready to paste into any repository.
-
----
-
-[![Followers](https://img.shields.io/github/followers/Mesit-Rathnayake?style=for-the-badge)](https://github.com/Mesit-Rathnayake)
-
----
 
 ## About
 - I am a Computer Engineering undergraduate at the Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna.  
@@ -18,88 +11,56 @@ A concise, modern README with my key projects, a sleek languages breakdown, and 
 
 ---
 
-## Languages & Tools — sleek breakdown
+## Languages & Tools
 
-A compact, modern visual showing top languages with icons, percentage and a small progress bar. Percentages use the values from your reference image.
+A compact visual: percentages are shown above each icon and the icons are arranged in a responsive flex grid (wraps to two rows on narrow widths).
 
-<div align="left">
+<div style="display:flex;flex-wrap:wrap;gap:18px;align-items:flex-end;max-width:720px;">
 
-<!-- Language row: Icon (left), name + percentage (center), bar (right) -->
-<p style="margin:6px 0;">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
-  <strong style="vertical-align:middle">JavaScript</strong>
-  <span style="color:#6b7280;margin-left:8px">64.23%</span>
-  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
-    <code style="background:#e6f0ff;border-radius:4px;padding:2px 6px;">
-      <span style="color:#007acc">████████████████████████████</span>
-    </code>
-  </span>
-</p>
+  <!-- language card -->
+  <div style="width:110px;text-align:center;">
+    <div style="font-weight:600;color:#111827;margin-bottom:6px;">64.23%</div>
+    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
+    <div style="font-size:13px;color:#374151;">JavaScript</div>
+  </div>
 
-<p style="margin:6px 0;">
-  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
-  <strong style="vertical-align:middle">C#</strong>
-  <span style="color:#6b7280;margin-left:8px">9.84%</span>
-  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
-    <code style="background:#f3f4f6;border-radius:4px;padding:2px 6px;">
-      <span style="color:#2d8cbe">███</span>
-    </code>
-  </span>
-</p>
+  <div style="width:110px;text-align:center;">
+    <div style="font-weight:600;color:#111827;margin-bottom:6px;">9.84%</div>
+    <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
+    <div style="font-size:13px;color:#374151;">C#</div>
+  </div>
 
-<p style="margin:6px 0;">
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
-  <strong style="vertical-align:middle">HTML</strong>
-  <span style="color:#6b7280;margin-left:8px">7.94%</span>
-  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
-    <code style="background:#fff7ed;border-radius:4px;padding:2px 6px;">
-      <span style="color:#e34f26">██</span>
-    </code>
-  </span>
-</p>
+  <div style="width:110px;text-align:center;">
+    <div style="font-weight:600;color:#111827;margin-bottom:6px;">7.94%</div>
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
+    <div style="font-size:13px;color:#374151;">HTML</div>
+  </div>
 
-<p style="margin:6px 0;">
-  <img alt="Jupyter" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
-  <strong style="vertical-align:middle">Jupyter Notebook</strong>
-  <span style="color:#6b7280;margin-left:8px">7.25%</span>
-  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
-    <code style="background:#fff8f0;border-radius:4px;padding:2px 6px;">
-      <span style="color:#f0a202">██</span>
-    </code>
-  </span>
-</p>
+  <div style="width:110px;text-align:center;">
+    <div style="font-weight:600;color:#111827;margin-bottom:6px;">7.25%</div>
+    <img alt="Jupyter" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
+    <div style="font-size:13px;color:#374151;">Jupyter</div>
+  </div>
 
-<p style="margin:6px 0;">
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
-  <strong style="vertical-align:middle">CSS</strong>
-  <span style="color:#6b7280;margin-left:8px">6.91%</span>
-  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
-    <code style="background:#eef2ff;border-radius:4px;padding:2px 6px;">
-      <span style="color:#1572b6">██</span>
-    </code>
-  </span>
-</p>
+  <div style="width:110px;text-align:center;">
+    <div style="font-weight:600;color:#111827;margin-bottom:6px;">6.91%</div>
+    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
+    <div style="font-size:13px;color:#374151;">CSS</div>
+  </div>
 
-<p style="margin:6px 0;">
-  <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="20" height="20" style="vertical-align:middle;margin-right:8px;">
-  <strong style="vertical-align:middle">Dart</strong>
-  <span style="color:#6b7280;margin-left:8px">3.84%</span>
-  <span style="display:inline-block;vertical-align:middle;margin-left:12px">
-    <code style="background:#f2fbff;border-radius:4px;padding:2px 6px;">
-      <span style="color:#00b4ab">█</span>
-    </code>
-  </span>
-</p>
+  <div style="width:110px;text-align:center;">
+    <div style="font-weight:600;color:#111827;margin-bottom:6px;">3.84%</div>
+    <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
+    <div style="font-size:13px;color:#374151;">Dart</div>
+  </div>
 
 </div>
 
-*Notes:* the icons are hotlinked from devicon / public icon sources. If you prefer to host icons yourself, upload them to a repo and replace the image URLs.
+*Percentages are taken from the reference you provided and are static values in this README. If you prefer these generated dynamically from your repositories, I can replace this section with a QuickChart image or the live Top Langs widget instead.*
 
 ---
 
 ## Contribution Graph
-A compact contribution overview of recent activity:
-
 ![Contribution graph](https://ghchart.rshah.org/Mesit-Rathnayake)
 
 ---
