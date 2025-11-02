@@ -4,8 +4,7 @@
 ---
 
 [![Followers](https://img.shields.io/github/followers/Mesit-Rathnayake?style=for-the-badge)](https://github.com/Mesit-Rathnayake)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesit-Rathnayake&layout=compact&theme=onedark&count_private=true)](https://github.com/Mesit-Rathnayake)  
-![Contribution graph](https://ghchart.rshah.org/Mesit-Rathnayake)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesit-Rathnayake&layout=compact&theme=onedark&count_private=true)](https://github.com/Mesit-Rathnayake)
 
 ---
 
@@ -22,8 +21,6 @@ I'm Mesith-Rathnayake — a software developer focused on practical, user-center
 This card shows your top languages across public repos (percentage by bytes). It's generated live by GitHub Readme Stats.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesit-Rathnayake&layout=compact&theme=onedark&count_private=true)](https://github.com/Mesit-Rathnayake)
-
-If you'd like a more visual breakdown (colored bars or a pie chart), I can add a QuickChart image with example data — say which visual you prefer.
 
 ---
 
