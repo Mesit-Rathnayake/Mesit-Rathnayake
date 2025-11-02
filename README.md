@@ -2,6 +2,13 @@
 
 I am a Computer Engineering undergraduate at the Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna.
 
+Simple, modern README with a compact languages row (icons + percentages), contribution graph, and links to my main projects.
+
+---
+
+[![Followers](https://img.shields.io/github/followers/Mesit-Rathnayake?style=for-the-badge)](https://github.com/Mesit-Rathnayake)
+
+---
 
 ## About
 - I am a Computer Engineering undergraduate at the Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna.  
@@ -11,52 +18,51 @@ I am a Computer Engineering undergraduate at the Department of Electrical and In
 
 ---
 
-## Languages & Tools
+## Languages (icons + percentages)
 
-A compact visual: percentages are shown above each icon and the icons are arranged in a responsive flex grid (wraps to two rows on narrow widths).
+A compact single-row layout showing each language icon with its percentage. The percentages are taken from your reference image.
 
-<div style="display:flex;flex-wrap:wrap;gap:18px;align-items:flex-end;max-width:720px;">
+<div align="center">
+  <div style="display:flex;gap:28px;flex-wrap:wrap;justify-content:center;align-items:center;max-width:720px;">
+    <div style="text-align:center;width:92px">
+      <div style="font-weight:700">64.23%</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin-top:6px">
+      <div style="font-size:12px;color:#374151;margin-top:6px">JavaScript</div>
+    </div>
 
-  <!-- language card -->
-  <div style="width:110px;text-align:center;">
-    <div style="font-weight:600;color:#111827;margin-bottom:6px;">64.23%</div>
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
-    <div style="font-size:13px;color:#374151;">JavaScript</div>
+    <div style="text-align:center;width:92px">
+      <div style="font-weight:700">9.84%</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp" width="36" height="36" style="margin-top:6px">
+      <div style="font-size:12px;color:#374151;margin-top:6px">C#</div>
+    </div>
+
+    <div style="text-align:center;width:92px">
+      <div style="font-weight:700">7.94%</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36" style="margin-top:6px">
+      <div style="font-size:12px;color:#374151;margin-top:6px">HTML</div>
+    </div>
+
+    <div style="text-align:center;width:92px">
+      <div style="font-weight:700">7.25%</div>
+      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" alt="Jupyter" width="36" height="36" style="margin-top:6px">
+      <div style="font-size:12px;color:#374151;margin-top:6px">Jupyter</div>
+    </div>
+
+    <div style="text-align:center;width:92px">
+      <div style="font-weight:700">6.91%</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36" style="margin-top:6px">
+      <div style="font-size:12px;color:#374151;margin-top:6px">CSS</div>
+    </div>
+
+    <div style="text-align:center;width:92px">
+      <div style="font-weight:700">3.84%</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="36" height="36" style="margin-top:6px">
+      <div style="font-size:12px;color:#374151;margin-top:6px">Dart</div>
+    </div>
   </div>
-
-  <div style="width:110px;text-align:center;">
-    <div style="font-weight:600;color:#111827;margin-bottom:6px;">9.84%</div>
-    <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
-    <div style="font-size:13px;color:#374151;">C#</div>
-  </div>
-
-  <div style="width:110px;text-align:center;">
-    <div style="font-weight:600;color:#111827;margin-bottom:6px;">7.94%</div>
-    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
-    <div style="font-size:13px;color:#374151;">HTML</div>
-  </div>
-
-  <div style="width:110px;text-align:center;">
-    <div style="font-weight:600;color:#111827;margin-bottom:6px;">7.25%</div>
-    <img alt="Jupyter" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
-    <div style="font-size:13px;color:#374151;">Jupyter</div>
-  </div>
-
-  <div style="width:110px;text-align:center;">
-    <div style="font-weight:600;color:#111827;margin-bottom:6px;">6.91%</div>
-    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
-    <div style="font-size:13px;color:#374151;">CSS</div>
-  </div>
-
-  <div style="width:110px;text-align:center;">
-    <div style="font-weight:600;color:#111827;margin-bottom:6px;">3.84%</div>
-    <img alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" style="display:block;margin:0 auto 6px;">
-    <div style="font-size:13px;color:#374151;">Dart</div>
-  </div>
-
 </div>
 
-*Percentages are taken from the reference you provided and are static values in this README. If you prefer these generated dynamically from your repositories, I can replace this section with a QuickChart image or the live Top Langs widget instead.*
+*Note:* GitHub Markdown supports basic HTML for layout; images are hotlinked from public icon sources (devicon, GitHub). If you prefer to host icons in your own repo, upload them to e.g. `/assets/icons/` and replace the src URLs with those paths.
 
 ---
 
