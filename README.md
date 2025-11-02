@@ -1,13 +1,5 @@
 # Hi — I'm Mesith-Rathnayake 👋
 
-
----
-
-[![Followers](https://img.shields.io/github/followers/Mesit-Rathnayake?style=for-the-badge)](https://github.com/Mesit-Rathnayake)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesit-Rathnayake&layout=compact&theme=onedark&count_private=true)](https://github.com/Mesit-Rathnayake)
-
----
-
 ## About
 I'm Mesith-Rathnayake — a software developer focused on practical, user-centered web applications and productivity tools. I care about clean, maintainable code and useful interfaces.
 
