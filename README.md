@@ -9,7 +9,7 @@
   <a href="https://github.com/Mesit-Rathnayake">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github">
   </a>
-  <a href="https://linkedin.com/in/mesith-rathnayake" target="_blank">
+  <a href="https://www.linkedin.com/in/mesith-rathnayake-37647a213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
 </p>
