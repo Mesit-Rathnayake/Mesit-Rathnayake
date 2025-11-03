@@ -42,40 +42,19 @@
 ### 📊 Language Usage (Based on Public Repos)
 
 <div align="center">
-  <table cellpadding="6" cellspacing="0" style="border:none;">
-    <tr>
-      <td align="center">
-        <div style="font-weight:700">64.2%</div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36">
-        <div style="font-size:12px;color:#374151">JavaScript</div>
-      </td>
-      <td align="center">
-        <div style="font-weight:700">9.8%</div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36">
-        <div style="font-size:12px;color:#374151">C#</div>
-      </td>
-      <td align="center">
-        <div style="font-weight:700">7.9%</div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36">
-        <div style="font-size:12px;color:#374151">HTML</div>
-      </td>
-      <td align="center">
-        <div style="font-weight:700">7.2%</div>
-        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/jupyter.svg" width="36" height="36">
-        <div style="font-size:12px;color:#374151">Jupyter</div>
-      </td>
-      <td align="center">
-        <div style="font-weight:700">6.9%</div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36">
-        <div style="font-size:12px;color:#374151">CSS</div>
-      </td>
-      <td align="center">
-        <div style="font-weight:700">3.8%</div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" height="36">
-        <div style="font-size:12px;color:#374151">Dart</div>
-      </td>
-    </tr>
-  </table>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesit-Rathnayake&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,java,csharp,dart" />
+</p>
+
+<p align="center">
+  <sub><i>Auto-generated data combined with manually highlighted skills</i></sub>
+</p>
+
 </div>
 
 ---
