@@ -104,13 +104,7 @@
 
 ---
 
-### 📈 My GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mesit-Rathnayake&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mesit-Rathnayake&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
+### 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mesit-Rathnayake&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
