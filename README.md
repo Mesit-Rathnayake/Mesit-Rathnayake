@@ -41,50 +41,21 @@
 
 ### 📊 Language Usage (Based on Public Repos)
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px;">
+<div align="center">
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48">
-    <div><b>JavaScript</b></div>
-  </div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesit-Rathnayake&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48">
-    <div><b>Python</b></div>
-  </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,java,csharp,dart" />
+</p>
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48">
-    <div><b>Java</b></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48">
-    <div><b>HTML</b></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48">
-    <div><b>CSS</b></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48">
-    <div><b>C#</b></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48">
-    <div><b>Dart</b></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48">
-    <div><b>C++</b></div>
-  </div>
+<p align="center">
+  <sub><i>Auto-generated data combined with manually highlighted skills</i></sub>
+</p>
 
 </div>
-
 
 ---
 
