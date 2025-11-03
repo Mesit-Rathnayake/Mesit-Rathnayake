@@ -19,9 +19,9 @@
 ### 🧑‍💻 About Me  
 🎓 I’m a **Computer Engineering undergraduate** at the **University of Ruhuna**, Faculty of Engineering.  
 💡 Currently exploring **Machine Learning**, **Artificial Intelligence**, **Embedded Systems**, and **Web Application Development**.  
-🧭 I love building **academic-related web applications** that help students and institutions organize, visualize, and analyze data effectively.  
+🧭 I enjoy developing **academic-related web applications**, helping students and institutions manage and visualize their performance more effectively.  
 🔧 Still learning — one project, one bug, one idea at a time!  
-🌍 Interested in combining **engineering principles** with **intelligent software systems** to create meaningful solutions.
+🌍 Passionate about combining **engineering principles** with **intelligent software systems** to create meaningful, scalable solutions.
 
 ---
 
@@ -82,8 +82,8 @@
 
 ### 🚀 Projects (Learning by Building)
 
-#### 🧩 Academic Web Platforms  
-> Developing academic productivity tools focused on student progress tracking, performance visualization, and data-driven insights.  
+#### 🎓 [My Academia](https://github.com/Mesit-Rathnayake/my-academia)  
+> A **student progress tracker web application** designed to help students manage modules, attendance, and grades while visualizing academic progress through interactive dashboards.  
 **Stack:** React, Spring Boot, MySQL, Tailwind CSS  
 
 #### 💰 [Budget Buddy](https://github.com/Mesit-Rathnayake/budget-buddy)  
