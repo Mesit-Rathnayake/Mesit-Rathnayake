@@ -19,9 +19,9 @@
 ### 🧑‍💻 About Me  
 🎓 I’m a **Computer Engineering undergraduate** at the **University of Ruhuna**, Faculty of Engineering.  
 💡 Currently exploring **Machine Learning**, **Artificial Intelligence**, **Embedded Systems**, and **Web Application Development**.  
-🧭 I enjoy developing **academic-related web applications**, helping students and institutions manage and visualize their performance more effectively.  
+🧭 I enjoy developing **academic and real-world web applications**, helping students and institutions manage and visualize their data more effectively.  
 🔧 Still learning — one project, one bug, one idea at a time!  
-🌍 Passionate about combining **engineering principles** with **intelligent software systems** to create meaningful, scalable solutions.
+🌍 Passionate about combining **engineering principles** with **intelligent software systems** and **DevOps practices** to create scalable solutions.
 
 ---
 
@@ -32,8 +32,11 @@
 #### 💻 Languages
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,csharp,dart" />
 
-#### ⚙️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=spring,react,flutter,nodejs,express,mysql,mongodb,git,vscode,figma,arduino" />
+#### ⚙️ Frameworks & Databases
+<img src="https://skillicons.dev/icons?i=spring,react,flutter,nodejs,express,mysql,mongodb" />
+
+#### 🛠️ DevOps, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,aws,git,vscode,figma,arduino" />
 
 </div>
 
@@ -57,22 +60,25 @@
 
 </div>
 
-
 ---
 
 ### 🚀 Projects (Learning by Building)
 
-#### 🎓 [My Academia](https://github.com/Mesit-Rathnayake/my-academia)  
-> A **student progress tracker web application** designed to help students manage modules, attendance, and grades while visualizing academic progress through interactive dashboards.  
-**Stack:** React, Spring Boot, MySQL, Tailwind CSS  
+#### 🏥 **MOH Connect** *(In Progress)*  
+> A **fully automated system for maternal and child healthcare**, designed to streamline data handling and improve communication between healthcare providers and institutions.  
+**Stack:** React, Spring Boot, MySQL, Docker, Jenkins, AWS EC2  
 
-#### 💰 [Budget Buddy](https://github.com/Mesit-Rathnayake/budget-buddy)  
-> A simple budgeting app with forecasting and transaction tracking.  
+#### 📦 **FoundIT**  
+> A **mobile application for lost and found items**, enabling users to post, search, and successfully retrieve lost belongings through a centralized platform.  
 **Stack:** Flutter, Firebase  
 
-#### 🧠 [Task Master](https://github.com/Mesit-Rathnayake/task-master)  
-> A basic task manager for organizing daily work and priorities.  
-**Stack:** Node.js, Express, MongoDB  
+#### 🎓 [My Academia](https://github.com/Mesit-Rathnayake/my-academia)  
+> A **student progress tracker web application** that helps students manage modules, attendance, and grades while visualizing academic performance through dashboards.  
+**Stack:** React, Spring Boot, MySQL, Tailwind CSS, Docker, CI/CD  
+
+#### 💰 [Budget Buddy](https://github.com/Mesit-Rathnayake/budget-buddy)  
+> A budgeting application for managing expenses, tracking transactions, and understanding spending patterns.  
+**Stack:** Flutter, Firebase, GitHub Actions  
 
 ---
 
@@ -80,6 +86,7 @@
 - Learn through **projects and experimentation**  
 - Focus on **building from scratch** rather than copying  
 - Emphasize **clarity, structure, and teamwork**  
+- Apply **DevOps principles** to automate, deploy, and improve reliability  
 - Believe that **engineering is 1% theory and 99% creative problem-solving**
 
 ---
