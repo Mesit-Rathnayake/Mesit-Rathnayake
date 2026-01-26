@@ -64,19 +64,19 @@
 
 ### 🚀 Projects (Learning by Building)
 
-#### 🏥 **MOH Connect** *(In Progress)*  
+#### 🏥 [MOH Connect](https://github.com/Mesit-Rathnayake/OHM.git) *(In Progress)*  
 > A **fully automated system for maternal and child healthcare**, designed to streamline data handling and improve communication between healthcare providers and institutions.  
 **Stack:** React, Spring Boot, MySQL, Docker, Jenkins, AWS EC2  
 
-#### 📦 **FoundIT**  
+#### 📦 [FoundIT](https://github.com/Mesit-Rathnayake/FoundIT-Kotlin-.git)  
 > A **mobile application for lost and found items**, enabling users to post, search, and successfully retrieve lost belongings through a centralized platform.  
 **Stack:** Flutter, Firebase  
 
-#### 🎓 [My Academia](https://github.com/Mesit-Rathnayake/my-academia)  
+#### 🎓 [My Academia](https://github.com/Mesit-Rathnayake/my_academia.git)  
 > A **student progress tracker web application** that helps students manage modules, attendance, and grades while visualizing academic performance through dashboards.  
 **Stack:** React, Spring Boot, MySQL, Tailwind CSS, Docker, CI/CD  
 
-#### 💰 [Budget Buddy](https://github.com/Mesit-Rathnayake/budget-buddy)  
+#### 💰 [Budget Buddy](https://github.com/Mesit-Rathnayake/budgetbuddy.git)  
 > A budgeting application for managing expenses, tracking transactions, and understanding spending patterns.  
 **Stack:** Flutter, Firebase, GitHub Actions  
 
