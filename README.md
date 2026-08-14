@@ -1,101 +1,200 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Mesith Rathnayake 👋</h1>
-<h3 align="center">Computer Engineering Undergraduate | Embedded Systems | AI & Full-Stack Developer (in progress 🚀)</h3>
+<h1 align="center">Hi, I'm Mesith Rathnayake 👋</h1>
+
+<h3 align="center">
+Computer Engineering Undergraduate · AI/ML · Full-Stack · DevOps
+</h3>
 
 <p align="center">
   <a href="mailto:mesithrathnayake0930@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Mesit-Rathnayake">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/mesith-rathnayake-37647a213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
-🎓 I’m a **Computer Engineering undergraduate** at the **University of Ruhuna**, Faculty of Engineering.  
-💡 Currently exploring **Machine Learning**, **Artificial Intelligence**, **Embedded Systems**, and **Web Application Development**.  
-🧭 I enjoy developing **academic and real-world web applications**, helping students and institutions manage and visualize their data more effectively.  
-🔧 Still learning — one project, one bug, one idea at a time!  
-🌍 Passionate about combining **engineering principles** with **intelligent software systems** and **DevOps practices** to create scalable solutions.
+## 👨‍💻 About Me
+
+🎓 Computer Engineering undergraduate at the **University of Ruhuna, Sri Lanka**.
+
+🤖 Currently focused on **Artificial Intelligence, Machine Learning, Computer Vision, and AI-powered software systems**.
+
+💻 I enjoy building **full-stack applications** and turning ideas into working products — from backend APIs and databases to intelligent features and deployment.
+
+⚙️ Interested in **DevOps, cloud infrastructure, automation, and scalable software engineering**.
+
+🧪 I learn by building, experimenting, breaking things, and figuring out why they broke.
+
+🚀 Currently working toward becoming an **AI/ML Engineer** with strong software engineering and systems fundamentals.
 
 ---
 
-### 🧠 Tech Stack (Learning & Exploring)
+## 🧠 What I'm Working With
 
 <div align="center">
 
-#### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,csharp,dart" />
+### Languages
 
-#### ⚙️ Frameworks & Databases
-<img src="https://skillicons.dev/icons?i=spring,react,flutter,nodejs,express,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,go,js,ts,kotlin,dart" />
 
-#### 🛠️ DevOps, Cloud & Tools
-<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,aws,git,vscode,figma,arduino" />
+### AI / ML / Computer Vision
+
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+
+<br/>
+
+`Machine Learning` · `Computer Vision` · `Generative AI` · `RAG` · `LLM Applications`
+
+### Backend & Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,flutter" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,aws,terraform,ansible" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,arduino" />
 
 </div>
 
 ---
 
-### 📊 Language Usage (Based on Public Repos)
+## 🚀 Featured Projects
 
-<div align="center">
+### 🎓 My Academia — AI-Powered Academic Platform
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesit-Rathnayake&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+**My Academia** is a student progress management platform designed to help students track modules, attendance, grades, and academic performance.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,java,csharp,dart" />
-</p>
+I'm currently extending the platform with an **AI-powered, citation-based academic chatbot** that can answer questions using university-provided learning material while providing supporting references.
 
-<p align="center">
-  <sub><i>Auto-generated data combined with manually highlighted skills</i></sub>
-</p>
+**Focus:** AI · RAG · LLM Applications · Full-Stack Development
 
-</div>
+**Stack:** React · Node.js · MongoDB · AI/LLM APIs · Vector Search
 
 ---
 
-### 🚀 Projects (Learning by Building)
+### 📸 Hybrid Photo Enhancer
 
-#### 🏥 [MOH Connect](https://github.com/Mesit-Rathnayake/OHM.git) *(In Progress)*  
-> A **fully automated system for maternal and child healthcare**, designed to streamline data handling and improve communication between healthcare providers and institutions.  
-**Stack:** React, Spring Boot, MySQL, Docker, Jenkins, AWS EC2  
+An image enhancement project exploring traditional image processing techniques together with modern AI-based approaches to improve image quality.
 
-#### 📦 [FoundIT](https://github.com/Mesit-Rathnayake/FoundIT-Kotlin-.git)  
-> A **mobile application for lost and found items**, enabling users to post, search, and successfully retrieve lost belongings through a centralized platform.  
-**Stack:** Flutter, Firebase  
+The project focuses on understanding how different enhancement techniques can be combined into a practical image-processing pipeline.
 
-#### 🎓 [My Academia](https://github.com/Mesit-Rathnayake/my_academia.git)  
-> A **student progress tracker web application** that helps students manage modules, attendance, and grades while visualizing academic performance through dashboards.  
-**Stack:** React, Spring Boot, MySQL, Tailwind CSS, Docker, CI/CD  
+**Focus:** Computer Vision · Image Processing · AI
 
-#### 💰 [Budget Buddy](https://github.com/Mesit-Rathnayake/budgetbuddy.git)  
-> A budgeting application for managing expenses, tracking transactions, and understanding spending patterns.  
-**Stack:** Flutter, Firebase, GitHub Actions  
+**Stack:** Python · OpenCV · NumPy · Machine Learning
 
 ---
 
-### ⚙️ My Approach  
-- Learn through **projects and experimentation**  
-- Focus on **building from scratch** rather than copying  
-- Emphasize **clarity, structure, and teamwork**  
-- Apply **DevOps principles** to automate, deploy, and improve reliability  
-- Believe that **engineering is 1% theory and 99% creative problem-solving**
+### 🏥 MOH Connect
+
+A healthcare management platform designed to streamline maternal and child healthcare data and communication between healthcare workers and institutions.
+
+Built as a full-stack system with plans for mobile integration.
+
+**Focus:** Full-Stack Engineering · Software Architecture · Cloud Deployment
+
+**Stack:** React · Spring Boot · PostgreSQL/MySQL · Docker · CI/CD
 
 ---
 
-### 📈 My GitHub Stats  
+### 💰 BudgetBuddy
+
+A personal finance application for recording expenses, managing transactions, and understanding spending habits.
+
+The project also served as an opportunity to explore **DevOps automation and deployment practices**.
+
+**Focus:** Full-Stack Development · DevOps
+
+**Stack:** React · Node.js · MongoDB · Docker · Jenkins · Terraform · AWS
+
+---
+
+### 🔗 Toy Blockchain in Go
+
+A learning-focused blockchain implementation built from scratch in **Go** to understand the fundamentals behind distributed ledgers.
+
+Implemented concepts including:
+
+* Proof of Work
+* Transactions
+* Blocks
+* Hashing
+* Ledger replay
+* Transaction validation
+* Mining
+* Basic security and testing
+
+**Focus:** Go · Blockchain · Distributed Systems · Software Engineering
+
+---
+
+## 🛠️ Engineering Interests
+
+```text
+Artificial Intelligence
+├── Machine Learning
+├── Computer Vision
+├── Generative AI
+├── RAG & LLM Applications
+└── Intelligent Software Systems
+
+Software Engineering
+├── Full-Stack Development
+├── Backend Systems
+├── API Design
+├── Databases
+└── Software Architecture
+
+Infrastructure
+├── Docker
+├── CI/CD
+├── AWS
+├── Infrastructure as Code
+└── Automation
+```
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Machine Learning
+* Computer Vision
+* Generative AI & LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* AI Agent Architectures
+* Cloud & DevOps Engineering
+* Distributed Systems
+* Go
+* Blockchain & Ethereum
+
+---
+
+## 💡 My Engineering Philosophy
+
+> **Don't just learn the technology. Build something that needs it.**
+
+I prefer learning through projects, experimentation, and understanding how systems work under the hood.
+
+My goal is to combine **AI + software engineering + systems thinking** to build useful, reliable, and scalable products.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mesit-Rathnayake&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mesit-Rathnayake&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mesit-Rathnayake&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mesit-Rathnayake&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
@@ -104,11 +203,18 @@
 
 ---
 
-### 📫 Get in Touch  
-📧 **mesithrathnayake0930@gmail.com**  
-🌐 **[github.com/Mesit-Rathnayake](https://github.com/Mesit-Rathnayake)**  
-💼 **[linkedin.com/in/mesith-rathnayake](https://linkedin.com/in/mesith-rathnayake)**  
+## 🤝 Let's Connect
 
----
+<p align="center">
 
-⭐️ *“Still learning — but every engineer starts with curiosity.”*
+📧 <a href="mailto:mesithrathnayake0930@gmail.com">Email</a>
+  ·  
+💼 <a href="https://www.linkedin.com/in/mesith-rathnayake-37647a213/">LinkedIn</a>
+  ·  
+💻 <a href="https://github.com/Mesit-Rathnayake">GitHub</a>
+
+</p>
+
+<p align="center">
+  <i>Building, breaking, learning, and building again. 🚀</i>
+</p>
